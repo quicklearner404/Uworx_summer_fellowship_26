@@ -1,0 +1,22 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+
+# Environment
+.env
+backend/.env
+frontend/.env
+
+# Saved API Responses
+backend/data/responses/*.json
+backend/data/history/*.json
+
+# Vite
+frontend/dist/
+
+# VS Code
+.vscode/
